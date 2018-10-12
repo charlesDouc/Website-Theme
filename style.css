@@ -1,0 +1,50 @@
+/*
+ Theme Name:     Divi Child Theme
+ Description:    Divi child theme for the my website www.charlesdoucet.com
+ Author:         Charles Doucet
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+@import url("../Divi/style.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.experiment-vignette .et_pb_blurb_container {
+	background-color: #efefef;
+	padding-bottom: 15px;
+	padding-right: 15px;
+
+}
+
+#footer-widgets .footer-widget li:before {
+	border-style: none;
+}
+
+#footer-widgets .footer-widget {
+	position: absolute;
+	bottom: 0;
+	margin: 0px;
+	left: -8px;
+}
+
+#footer-widgets .footer-widget li {
+	padding-left: 0px;
+}
+
+
+
+/* ---------------------------------------------------- */
+/* Responsive 											*/
+/* ---------------------------------------------------- */
+@media only screen and (max-width: 980px) {
+   
+   .experiment-year {
+   		border-right: 0px;
+   		border-top: 2px solid #efefef;
+   		padding-top: 25px;
+   }
+
+}
+
