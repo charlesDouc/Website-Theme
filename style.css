@@ -49,12 +49,12 @@
 	text-decoration-color: #acacac;
 }
 
-#main-header .logo_helper img {
+#main-header .logo_container a {
 	-webkit-transition: -webkit-transform .8s ease-in-out;
     transition: transform .8s ease-in-out;
 }
 
-#main-header .logo_helper img:hover {
+#main-header .logo_container a:hover {
 	-webkit-transform: rotate(360deg);
     transform: rotate(360deg);
 }
