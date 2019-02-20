@@ -42,6 +42,11 @@
 	font-size: 16px;
 	font-weight: 700;
 	color: #393939;
+	text-decoration: underline !important;
+	text-decoration-color: #acacac !important;
+}
+
+#top-menu a {
 	text-decoration: underline;
 	text-decoration-color: #acacac;
 }
@@ -53,7 +58,7 @@
 /* ---------------------------------------------------- */
 @media only screen and (max-width: 980px) {
    
-   .experiment-year {
+   .experiment-year {#
    		border-right: 0px;
    		border-top: 2px solid #efefef;
    		padding-top: 25px;
