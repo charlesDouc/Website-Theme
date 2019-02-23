@@ -7,5 +7,6 @@ $.get({
 	url: url,
 	success: function(response) {
 		console.log(response);
+		console.log("Worked");
 	}
 });
