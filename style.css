@@ -46,18 +46,17 @@
 
 
 /* ---------------------------------------------------- */
-/* Title 												*/
+/* Title - Home Page 									*/
 /* ---------------------------------------------------- */
 h1 #doucet {
 	font-size: 90px;
-
 }
 
 
 h1 #cMind {
 	font-size: 45px;
 	font-weight: 400;
-
+	text-transform: none;
 }
 
 
