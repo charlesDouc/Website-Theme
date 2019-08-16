@@ -78,6 +78,10 @@ h1 #cMind {
 	padding: 0px;
 }
 
+#project-feed .project-date {
+	font-family: 'Saira Condensed';
+	font-weight: 500;
+}
 
 
 /* ---------------------------------------------------- */
