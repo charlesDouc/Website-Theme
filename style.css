@@ -12,6 +12,14 @@
 ------------------------------------------------------- */
 
 
+.single .et_pb_post {
+	margin-bottom: 0px;
+}
+
+.single .post {
+	padding-bottom: 0px;
+}
+
 
 #footer-widgets .footer-widget li:before {
 	border-style: none;
