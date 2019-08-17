@@ -104,17 +104,5 @@ h1 #cMind {
 /* ---------------------------------------------------- */
 /* Responsive 											*/
 /* ---------------------------------------------------- */
-@media only screen and (max-width: 980px) {
-   
-   .experiment-year {#
-   		border-right: 0px;
-   		border-top: 2px solid #efefef;
-   		padding-top: 25px;
-   }
 
-}
-
-.et_mobile_menu {
-	border-top: none;
-}
 
