@@ -102,14 +102,15 @@ h1 #cMind {
 
 .custom-video {
 	box-shadow: 0px 2px 22px 9px rgba(0,0,0,0.3);
+	transition-property: box-shadow;
+	transition: box-shadow 300ms ease 0ms;
+	transition-duration: 300ms;
+	transition-timing-function: ease;
+	transition-delay: 0ms;
 }
 
 .custom-video:hover {
-	transition: box-shadow 300ms ease 0ms,box-shadow 300ms ease 0ms;
-    transition-property: box-shadow, box-shadow;
-    transition-duration: 300ms, 300ms;
-    transition-timing-function: ease, ease;
-    transition-delay: 0ms, 0ms;
+	box-shadow: 0px 12px 42px 9px rgba(0,0,0,0.3);
 }
 
 /* ---------------------------------------------------- */
