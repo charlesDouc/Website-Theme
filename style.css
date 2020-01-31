@@ -26,6 +26,10 @@
 	padding-bottom: 0px;
 }
 
+#home-page-header .header-content-container {
+	width: auto;
+}
+
 
 /* ---------------------------------------------------- */
 /* Footer 												*/
